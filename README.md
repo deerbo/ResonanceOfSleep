@@ -1,1 +1,1 @@
-Resonance of Sleep transports you to a fantasy bedroom where you can experience different audio and sounds studied to induce relaxation and sleep. Only press space to change scenes, and look around with a mouse.
+Description: Resonance of Sleep transports you to a fantasy bedroom where you can experience different audio and sounds studied to induce relaxation and sleep. Only press space to change scenes, and look around with a mouse.
