@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/City_Rainfall 1.unity
+    guid: 79d137244f6e70947af7448fa12fca9c
+  - enabled: 1
+    path: Assets/Meadow.unity
+    guid: 57bb8ac723a2dd248821660b2ad45089
+  - enabled: 1
+    path: Assets/Beach_Ocean.unity
+    guid: 374e0692ba7347840af8d3c5812c6eac
+  - enabled: 1
     path: Assets/Underwater.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
   m_configObjects:
